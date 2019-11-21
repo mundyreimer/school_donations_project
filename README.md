@@ -5,6 +5,8 @@ See our jupyter notebook for our initial exploratory data analysis done using Py
 
 Public data set can be found here:  https://www.kaggle.com/donorschoose/io
 
+Project contributors include: Nishat Khan, Zijun (Annette) Lin, Ming-Chuan Tsai, Kathy Yi, & Mundy Reimer
+
 ---
 Background information:
 
