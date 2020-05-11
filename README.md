@@ -18,7 +18,7 @@ Our presentation slidedeck can be [found here](https://docs.google.com/presentat
 
 ---
 
-Background information:
+## Background Information
 
 Founded in 2000 by a Bronx history teacher, DonorsChoose.org has raised $685 million for America's classrooms. Teachers at three-quarters of all the public schools in the U.S. have come to DonorsChoose.org to request what their students need, making DonorsChoose.org the leading platform for supporting public education.
 
