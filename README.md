@@ -1,4 +1,4 @@
-# School_donations_project
+# School Donations
 
 Design a recommendation system using PySpark that matches classroom charity projects to the most probable donors nationwide using Pyspark.
 
